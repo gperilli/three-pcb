@@ -1,6 +1,6 @@
 # THREE-PCB
 ![ThreeJS PCB Animation](/assets/three-pcb.png)
-A background design / experiment in ThreeJS.
+A background design / experiment in ThreeJS. Hosted on github at: [https://gperilli.github.io/three-pcb/](https://gperilli.github.io/three-pcb/), and my homepage at: [https://gperilli.dev/graphicswork/pcb-animation.html](https://gperilli.dev/graphicswork/pcb-animation.html).
 
 ## Downloading and Setting Up A Development Workspace
 
