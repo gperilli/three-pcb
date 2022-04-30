@@ -6,7 +6,7 @@ A background design / experiment in ThreeJS.
 
 THREE-PCB here runs on HTML, CSS, and JS files - with JS modules which are supported by most modern browsers. I've left the JS modules from the THREE library in the jsm and build directories. 
 
-The project code can be downloaded from this repository with a direct download, or alternatively, using a git clone command: git clone git@github.com:gperilli/three-pcb.git.
+The project code can be downloaded from this repository with a direct download, or alternatively, using a git clone command: git clone ``git@github.com:gperilli/three-pcb.git``.
 
 ## Using a Local Server
 
