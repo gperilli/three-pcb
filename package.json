@@ -1,0 +1,24 @@
+{
+  "name": "three-pcb",
+  "version": "1.0.0",
+  "description": "![ThreeJS PCB Animation](/assets/three-pcb.png) A background design / experiment in ThreeJS. Hosted on github at: [https://gperilli.github.io/three-pcb/](https://gperilli.github.io/three-pcb/), and my homepage at: [https://gperilli.dev/graphicswork/pcb-animation.html](https://gperilli.dev/graphicswork/pcb-animation.html).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gperilli/three-pcb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gperilli/three-pcb/issues"
+  },
+  "homepage": "https://github.com/gperilli/three-pcb#readme",
+  "dependencies": {
+    "three": "^0.140.2",
+    "webpack": "^5.72.1"
+  }
+}
